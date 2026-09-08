@@ -62,13 +62,7 @@
 
 ---
 
-### 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satharasingha&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
-
----
 
 ### 🌐 Connect with Me
 <p align="center">
