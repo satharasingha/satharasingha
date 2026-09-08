@@ -42,7 +42,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Docker](https://img.shields.io/badge/-Docker-222222?style=flat&logo=docker)
-![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat&logo=heroku)
+
 
 #### Cloud & Databases
 ![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat&logo=firebase)
